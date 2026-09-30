@@ -9,7 +9,7 @@ Se publican como *assets* de GitHub Releases, en la carpeta virtual `VIDEOSMIXXX
 
 | # | Archivo | Calidad | Tamaño | Enlace |
 |---|---------|---------|--------|--------|
-| 1 | `video-1.mp4` | 1200x720 @30fps, H.264 | ~1008 MB | [Descargar](https://github.com/MorelDa/videos/releases/download/v1/VIDEOSMIXXX/video-1.mp4) |
+| 1 | `VIDEOSMIXXX.video-1.mp4` | 1200x720 @30fps, H.264 | 1008 MB | [Descargar](https://github.com/MorelDa/videos/releases/download/v1/VIDEOSMIXXX.video-1.mp4) |
 
 ## Uso
 
